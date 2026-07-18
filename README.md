@@ -319,3 +319,16 @@ AI Engineering Assessment – Round 1
 ## Project Purpose
 
 This project was developed as part of an AI Engineering assessment to demonstrate the integration of Generative AI with structured business data. It shows how natural-language interfaces can simplify business analytics by allowing users to interact with databases without directly writing SQL queries.
+## Application Screenshots
+
+### Dashboard
+
+![AI Business Analytics Dashboard](screenshots/dashboard.png)
+
+### Query Result
+
+![Query Result](screenshots/query_result.png)
+
+### Data Visualization
+
+![Data Visualization](screenshots/visualization.png)
