@@ -1,0 +1,40 @@
+/* Hide Streamlit Branding */
+#MainMenu {visibility:hidden;}
+footer {visibility:hidden;}
+header {visibility:hidden;}
+
+/* App Background */
+.stApp{
+    background:#f5f7fb;
+}
+
+/* KPI Cards */
+.metric-card{
+    background:white;
+    border-radius:18px;
+    padding:25px;
+    text-align:center;
+    box-shadow:0px 6px 18px rgba(0,0,0,.08);
+    min-height:170px;
+}
+
+.metric-card:hover{
+    transform:translateY(-4px);
+}
+
+.metric-card h4{
+    color:#666;
+    margin-bottom:8px;
+}
+
+.metric-card h2{
+    color:#1f3b73;
+    margin:0;
+}
+
+/* Footer */
+.footer{
+    text-align:center;
+    color:#888;
+    margin-top:40px;
+}
